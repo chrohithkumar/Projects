@@ -34,7 +34,8 @@ function TodoApp() {
              </div>)}
 
             </div>
-        </div>
+        </div>  
+        <body></body>
 
        </center>
     </div>
